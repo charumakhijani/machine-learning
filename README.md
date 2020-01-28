@@ -1,2 +1,2 @@
-# datascience
-Data Science Portfolio
+# machine learning examples
+Machine Learning Portfolio

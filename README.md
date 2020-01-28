@@ -1,2 +1,2 @@
-# machine learning examples
+# Machine Learning Examples
 Machine Learning Portfolio
